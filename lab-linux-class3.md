@@ -6,7 +6,7 @@ lab-linux-class3.md
  - basic files/directories management 103.3
  
 # Requirements
- - we assume that you have installed ubuntu server system, you called it `mysrvr`, you have created a user named `gcr`, you assigned mode `NAT` to the network interface and you have installed the secure shell (ssh) server on it (otherwise, you have to install it using ```bash sudo apt-get update && apt-get install openssh-server```). these steps were carried out in the previous class.
+ - we assume that you have installed ubuntu server system, you called it `mysrvr`, you have created a user named `gcr`, you assigned mode `NAT` to the network interface and you have installed the secure shell (ssh) server on it (otherwise, you have to install it using ```sudo apt-get update && apt-get install openssh-server```). these steps were carried out in the previous class.
 
  - ensure you have a snapshot before working on this lab
 
