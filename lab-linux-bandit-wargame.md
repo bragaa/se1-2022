@@ -1,5 +1,5 @@
-# Contents: 
- - a on line game to help you acquire general linux/programming culture
+# Contents
+ - an on line game to help you acquire general linux/programming culture
  - the game follows a [Capture The Flag](https://en.wikipedia.org/wiki/Wargame_(hacking) style
  - this is a challenge game, you will encounter many situations in which you have no idea on what you are supposed to do or where to start. don’t panic! don’t give up! the purpose of this game is for you to learn the basics. part of learning the basics, is reading a lot of new information to get new ideas.
  
