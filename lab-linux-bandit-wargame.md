@@ -1,7 +1,7 @@
 # Contents
  - an on line game to help you acquire general linux/programming culture
  - the game follows a [Capture The Flag](https://en.wikipedia.org/wiki/Wargame_(hacking) style
- - this is a challenge game, you will encounter many situations in which you have no idea on what you are supposed to do or where to start. don’t panic! don’t give up! the purpose of this game is for you to learn the basics. part of learning the basics, is reading a lot of new information to get new ideas.
+ - this is a challenge! you will encounter many situations in which you have no idea on what you are supposed to do or where to start. don’t panic! don’t give up! the purpose of this game is for you to learn the basics. part of learning the basics, is reading a lot of new information to get new ideas.
  
 # Requirements
  - you do not need linux virtual machine to start playing.
@@ -12,5 +12,6 @@
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
- - each time you find the password for the next level, copy it and close the session with `exit`. then open session for the next level
+- try to find the password for the next level. it is hidden in a file located somewhere on the system, embedded in an image, it may be encoded, encrypted, etc. FIND IT!
+- each time you find the password for the next level, copy it and close the session with `exit`. then open session for the next level
   - copy using (Ctrl+Shit+C), paste using (Ctrl+Shit+V)
